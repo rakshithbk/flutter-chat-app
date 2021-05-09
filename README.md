@@ -29,3 +29,7 @@ for all images checkout `screenshots` folder.
  - Create a Firebase account and create a new project and follow instructions [here](https://firebase.flutter.dev/docs/overview/) to setup firebase android/ios configs in your project
  - Firebase services used - `Authentication`, `Firestore`, `Storage`, `Cloud Messaging`
  - Enable FCM and copy generated authServerKey into push_notifications.dart for enabling push notifications.
+
+## Architecture and more details
+
+For details on use of Firebase and application overview, checkout -  https://rbklabs.in/chat-app-flutter/
